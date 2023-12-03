@@ -1,5 +1,5 @@
 # Cyber-Hunt-Cycle
-Supporting JSON Files
+Example JSON and YAML Files From Evaluation
 
 APT28eval.YAML - Configuration YAML for MITRE Caldera to set up APT28 Adversary TTPs
 
