@@ -1,7 +1,7 @@
 # Cyber-Hunt-Cycle
 Supporting JSON Files
 
-APT28eval.YAML - Configuration YAML for MITRE Caldera to set up APT28 Adversary TTPs
+APT28eval.YAML - Configuration YAML for MITRE Caldera to set up APT28 Adversary TTPs /n
 APT29eval.YAML - Configuration YAML for MITRE Caldera to set up APT29 Adversary TTPs
 attack_g0007-overlay_visibility.JSON - APT 28 TTPs overlaid on Visibility layer and viewable with MITRE Navigator
 attack_g0016-overlay_visibility.JSON - APT 29 TTPs overlaid on Visibility layer and viewable with MITRE Navigator
